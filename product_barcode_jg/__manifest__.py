@@ -34,7 +34,7 @@
     
     'demo': [],
     'sequence':-133,
-    'price': 10.0,
+    'price': 8.00,
     'currency':'EUR',
     'application': True,
     'installable': True,
