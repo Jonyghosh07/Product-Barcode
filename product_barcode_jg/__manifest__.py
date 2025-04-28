@@ -2,10 +2,10 @@
 
 # Copyright © 2025 Jony Ghosh
 {
-    'name': "Barcode Image",
+    'name': "Product Auto Barcode Image Generator",
 
     'summary': """
-        Generate Barcode Image for Product Template
+        Automatically Generate Barcode Image for Product
         """,
 
     'description': """
@@ -22,8 +22,8 @@
     'category': 'Tools/Tools',
     'version': '18.0.0.1',
 
-    # 'images': ['static/src/img/banner.png'],
-    'icon': "/product_barcode/static/src/img/icon.png",
+    'images': ['static/src/img/banner.png'],
+    'icon': "/product_barcode_jg/static/src/img/icon.png",
     
     'depends': ['product', 'barcodes'],
 
