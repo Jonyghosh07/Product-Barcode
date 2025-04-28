@@ -2,10 +2,10 @@
 
 # Copyright © 2025 Jony Ghosh
 {
-    'name': "Barcode Image",
+    'name': "Product Auto Barcode Image Generator",
 
     'summary': """
-        Generate Barcode Image for Product Template
+        Automatically Generate Barcode Image for Product
         """,
 
     'description': """
