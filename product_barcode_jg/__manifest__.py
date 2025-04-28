@@ -23,7 +23,7 @@
     'version': '18.0.0.1',
 
     # 'images': ['static/src/img/banner.png'],
-    'icon': "/product_barcode/static/src/img/icon.png",
+    'icon': "/product_barcode_jg/static/src/img/icon.png",
     
     'depends': ['product', 'barcodes'],
 
